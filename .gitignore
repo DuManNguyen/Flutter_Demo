@@ -40,8 +40,8 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-mother.mp4
-facebook.png
-instagram.png
-pinterest.png
-pinterest_icon.png
+Image/mother.mp4
+Images/facebook.png
+Images/instagram.png
+Images/pinterest.png
+Images/pinterest_icon.png
